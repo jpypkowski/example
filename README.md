@@ -1,4 +1,4 @@
 # example
 Example repository
 
-Updated line
+*Corrected* Updated line
